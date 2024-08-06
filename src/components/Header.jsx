@@ -78,9 +78,9 @@ function Header() {
                 )
               })}
 
-              <li>
+              {/* <li>
                 <Link to={"/uploadNews"}> upload News</Link>
-              </li>
+              </li> */}
             </ul>
           </li>
        

@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import AllNews from "./components/AllNews";
 import Footer from "./components/Footer";
 import TopHeadlines from "./components/TopHeadlines";
-import HomePage from "./pages/HomePage"
+// import HomePage from "./pages/HomePage"
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import CountryNews from "./components/CountryNews";
 
